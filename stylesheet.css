@@ -26,7 +26,15 @@ li {
 .main {
   padding: 100px 80px;
 }
-
+.hiruiya{
+ writing-mode:vertical-rl;
+ -ms-writing-mode: tb-rl;
+ color:#000000;
+ padding:20px;
+ background-color:#98fb98;
+ height:500px;
+ font-size:50px;
+}
 .copy-container h1 {
   font-size: 140px;
 }
