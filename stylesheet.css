@@ -14,7 +14,7 @@ li {
 
 .header-logo {
   float: left;
-  font-size: 36px;
+  font-size:18px;
   padding: 20px 40px;
 }
 
@@ -36,11 +36,11 @@ li {
  font-size:10px;
 }
 .copy-container h1 {
-  font-size: 140px;
+  font-size: 60px;
 }
 
 .copy-container h2 {
-  font-size: 60px;
+  font-size: 20px;
 }
 
 .copy-container span {
